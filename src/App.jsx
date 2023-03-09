@@ -38,11 +38,11 @@ const posts = [
       role: "CTO @Rocketseat",
     },
     content: [
-      { type: "paragraph", content: "Fala galeraa 👋" },
+      { type: "paragraph", content: "Fala pessoal da Rocketseat!" },
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "#NeverStopLearning 🚀 🚀",
       },
 
       { type: "link", content: "jane.design/doctorcare" },
