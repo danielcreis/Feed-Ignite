@@ -8,6 +8,7 @@ import { useState } from "react";
 export function Post({ author, publishedAt, content }) {
   const [comments, setComments] = useState([" Post muito bacana, ein?"]);
   const [newCommentText, setNewCommentText] = useState("");
+  
 
   const publishedDateFormatted = format(
     publishedAt,
